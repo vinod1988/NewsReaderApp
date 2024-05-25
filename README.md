@@ -1,4 +1,4 @@
-# News Reader App
+# News Reader App Sample using SWIFTUI
 
 ## Overview
 
